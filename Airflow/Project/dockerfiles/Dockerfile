@@ -1,1 +1,1 @@
-FROM puckel/docker-airflow:1.10.9
+FROM puckel/docker-airflow
